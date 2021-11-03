@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spragad
 - 👀 I’m interested in Data Science/ ML 
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning Machine Learning/Computer Vision
 - 📫 How to reach me?
       E-mail: spraga1995@gmail.com and 
       linkedIn: https://www.linkedin.com/in/pragadeesh-s-12560b120/
